@@ -66,5 +66,5 @@ npm run dev
 
 ## License
 
-Chesskit is licensed under the GNU Affero General Public License 3. See [copying](COPYING.md) for
+Chesskit is licensed under the GNU Affero General Public License 3. See [Licence](LICENCE) for
 details.
