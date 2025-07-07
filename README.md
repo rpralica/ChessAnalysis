@@ -3,13 +3,15 @@
     <img width="120" height="120" src="https://github.com/GuillaumeSD/Chesskit/blob/main/public/android-chrome-192x192.png" alt="Logo">
   </a>
 
-<h3 align="center">Chesskit – Custom Fork</h3>
+<h3 align="center">Chesskit</h3>
   <p align="center">
-    A customized version of the Ultimate Chess Web App
+    The Ultimate Chess Web App
     <br />
-    <a href="https://chesskit.org/" target="_blank" rel="noopener noreferrer"><strong>Original chesskit.org</strong></a>
+    <a href="https://chesskit.org/" target="_blank" rel="noopener noreferrer"><strong>chesskit.org</strong></a>
     <br />
-    Forked from GuillaumeSD / Chesskit and modified by <strong>Rade Pralica</strong>
+    <a href="https://discord.com/invite/Yr99abAcUr" target="_blank" rel="noopener noreferrer">Discord Server</a>
+    ·
+    <a href="https://chesskit.notion.site/4cf7823836724432b71aa8932ba7d5bb" target="_blank" rel="noopener noreferrer">Features Backlog</a>
   </p>
 </div>
 <br />
@@ -60,9 +62,9 @@ npm run dev
 
     Customization and Fork: Rade Pralica
 
-
-License
-
-This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
-See LICENSE for details.
 ```
+
+## License
+
+Chesskit is licensed under the GNU Affero General Public License 3. See [copying](COPYING.md) for
+details.
