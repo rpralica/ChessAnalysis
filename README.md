@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://github.com/GuillaumeSD/Chesskit">
-    <img width="120" height="120" src="favicon.png" alt="Logo">
-  </a>
+<img width="120" height="120" src="https://sahanaliza.vercel.app/favicon.png" alt="Logo">  </a>
 
 <h3 align="center">Chesskit – Customized Version</h3>
   <p align="center">
