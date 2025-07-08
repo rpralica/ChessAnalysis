@@ -42,7 +42,7 @@ export default function NavBar({ darkMode, switchDarkMode }: Props) {
         position="static"
         sx={{
           zIndex: (theme) => theme.zIndex.drawer + 1,
-          backgroundColor: darkMode ? "#194a7a" : "white",
+          backgroundColor: darkMode ? "#194a7a" : "#8de1ff",
           color: darkMode ? "white" : "black",
         }}
         enableColorOnDark
@@ -81,7 +81,7 @@ export default function NavBar({ darkMode, switchDarkMode }: Props) {
           </NavLink>
 
           <StyledIconButtonLink
-            href="https://github.com/rpralica/ChessAnalysisApp"
+            href="https://github.com/rpralica/ChessAnalysis"
             target="_blank"
             rel="noopener noreferrer"
             sx={{ ml: "min(0.6rem, 0.8vw)" }}

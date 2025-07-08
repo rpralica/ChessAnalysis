@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/GuillaumeSD/Chesskit">
-    <img width="120" height="120" src="https://github.com/GuillaumeSD/Chesskit/blob/main/public/android-chrome-192x192.png" alt="Logo">
+    <img width="120" height="120" src="favicon.png" alt="Logo">
   </a>
 
-<h3 align="center">Chesskit</h3>
+<h3 align="center">Chesskit – Customized Version</h3>
   <p align="center">
     The Ultimate Chess Web App
     <br />
-    <a href="https://chesskit.org/" target="_blank" rel="noopener noreferrer"><strong>chesskit.org</strong></a>
+    <a href="https://chesskit.org/" target="_blank" rel="noopener noreferrer"><strong>Original chesskit.org</strong></a>
     <br />
     <a href="https://discord.com/invite/Yr99abAcUr" target="_blank" rel="noopener noreferrer">Discord Server</a>
     ·
@@ -25,10 +25,10 @@ It is intended as a backup and personal tool in case the original chesskit.org b
 
 GitHub repo: [https://github.com/rpralica/ChessAnalysis](https://github.com/rpralica/ChessAnalysis)
 
-## ✅ Features (original + custom)
+## ✅ Features (Original + Custom)
 
 - Load and review games from [chess.com](https://chess.com) and [lichess.org](https://lichess.org)
-- Analysis board with live engine evaluation, custom arrows, evaluation graph, ...
+- Analysis board with live engine evaluation, custom arrows, evaluation graph, etc.
 - Moves classification (Brilliant, Great, Good, Mistake, Blunder, ...)
 - Chess960 and Puzzles support
 - Play against Stockfish at any ELO
@@ -39,21 +39,25 @@ GitHub repo: [https://github.com/rpralica/ChessAnalysis](https://github.com/rpra
 
 ## 🛠️ Stack
 
-Built with [Next.js](https://nextjs.org/docs), [React](https://react.dev/learn/describing-the-ui), [Material UI](https://mui.com/material-ui/getting-started/overview/), and [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html).
+Built with:
+- [Next.js](https://nextjs.org/docs)
+- [React](https://react.dev/learn/describing-the-ui)
+- [Material UI](https://mui.com/material-ui/getting-started/overview/)
+- [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 
-## 🚀 Running the app in dev mode
+## 🚀 Running the App in Dev Mode
 
-> [!IMPORTANT]  
-> Requires [Node.js](https://nodejs.org) 22.11+
+> **Important:** Requires [Node.js](https://nodejs.org) version 22.11+
 
 Install dependencies:
 
 ```bash
-npm i
+npm install
 
 Start development server:
 
 npm run dev
+Visit http://localhost:3000 in your browser.
 
 
 🤝 Credits:
@@ -68,3 +72,4 @@ npm run dev
 
 Chesskit is licensed under the GNU Affero General Public License 3. See [Licence](LICENCE) for
 details.
+

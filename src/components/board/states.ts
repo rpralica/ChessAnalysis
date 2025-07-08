@@ -3,6 +3,6 @@ import { atomWithStorage } from "jotai/utils";
 
 export const pieceSetAtom = atomWithStorage<(typeof PIECE_SETS)[number]>(
   "pieceSet",
-  "maestro"
+  "merida"
 );
-export const boardHueAtom = atomWithStorage("boardHue", 0);
+export const boardHueAtom = atomWithStorage("boardHue", 187);
