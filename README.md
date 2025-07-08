@@ -32,11 +32,15 @@ GitHub repo: [https://github.com/rpralica/ChessAnalysis](https://github.com/rpra
 - Store your games in your browser database
 - 🎨 Custom dark theme and visual adjustments
 
-**Dark**
+<div align="center">
+  <strong>Dark</strong>
+</div>
 
 <img src="https://github.com/rpralica/ChessAnalysis/blob/main/assets/Dark.png" />
 
-**Light:**
+<div align="center">
+  <strong>Light</strong>
+</div>
 
 <img src="https://github.com/rpralica/ChessAnalysis/blob/main/assets/Light.png" />
 ## 🛠️ Stack
