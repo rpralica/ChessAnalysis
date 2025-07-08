@@ -8,9 +8,7 @@
     <br />
     <a href="https://chesskit.org/" target="_blank" rel="noopener noreferrer"><strong>Original chesskit.org</strong></a>
     <br />
-    <a href="https://discord.com/invite/Yr99abAcUr" target="_blank" rel="noopener noreferrer">Discord Server</a>
-    ·
-    <a href="https://chesskit.notion.site/4cf7823836724432b71aa8932ba7d5bb" target="_blank" rel="noopener noreferrer">Features Backlog</a>
+   
   </p>
 </div>
 <br />
