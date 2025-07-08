@@ -33,6 +33,7 @@ GitHub repo: [https://github.com/rpralica/ChessAnalysis](https://github.com/rpra
 - 🎨 Custom dark theme and visual adjustments
 
 **Dark**
+
 <img src="https://github.com/rpralica/ChessAnalysis/blob/main/assets/Dark.png" />
 
 **Light:**
