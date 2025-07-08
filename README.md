@@ -32,14 +32,16 @@ GitHub repo: [https://github.com/rpralica/ChessAnalysis](https://github.com/rpra
 - Store your games in your browser database
 - 🎨 Custom dark theme and visual adjustments
 
-Dark:
+**Dark**
 <img src="https://github.com/rpralica/ChessAnalysis/blob/main/assets/Dark.png" />
 
-Light:
+**Light:**
+
 <img src="https://github.com/rpralica/ChessAnalysis/blob/main/assets/Light.png" />
 ## 🛠️ Stack
 
 Built with:
+
 - [Next.js](https://nextjs.org/docs)
 - [React](https://react.dev/learn/describing-the-ui)
 - [Material UI](https://mui.com/material-ui/getting-started/overview/)
@@ -72,4 +74,3 @@ Visit http://localhost:3000 in your browser.
 
 Chesskit is licensed under the GNU Affero General Public License 3. See [Licence](LICENCE) for
 details.
-
