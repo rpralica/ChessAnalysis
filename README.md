@@ -11,7 +11,7 @@
    <br />
     Customized Chess Analize web app
      <br />
-    <a href="https://sahanaliza.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Original chesskit.org</strong></a>
+    <a href="https://sahanaliza.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>My custom ChessAnalysis</strong></a>
     <br />
   </p>
 </div>
