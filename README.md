@@ -8,7 +8,10 @@
     <br />
     <a href="https://chesskit.org/" target="_blank" rel="noopener noreferrer"><strong>Original chesskit.org</strong></a>
     <br />
-   
+   <br />
+    Customized Chess Analize web app
+    <a href="https://sahanaliza.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>Original chesskit.org</strong></a>
+    <br />
   </p>
 </div>
 <br />
